@@ -1,0 +1,39 @@
+Nombre de prueba:control.png Resultado: true
+Fecha de prueba: Tue Jun  9 22:34:40 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-1.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:34:48 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-2.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:34:53 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-3.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:34:57 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-4.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:01 2020
+Se encontró un 0.2222222222222222 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-5.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:35:06 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-6.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:11 2020
+Se encontró un 0.75 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-7.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:35:15 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-8.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:19 2020
+Se encontró un 0.4 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-9.jpg Resultado: true
+Fecha de prueba: Tue Jun  9 22:35:26 2020
+ Se encontró un 1.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-10.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:31 2020
+Se encontró un 0.1111111111111111 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-11.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:36 2020
+Se encontró un 0.0 de palabras de la prueba en la imagen de control
+Nombre de prueba:tarea-12.jpg Resultado: false
+Fecha de prueba: Tue Jun  9 22:35:46 2020
+Se encontró un 0.0 de palabras de la prueba en la imagen de control
